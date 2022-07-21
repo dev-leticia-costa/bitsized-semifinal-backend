@@ -8,6 +8,9 @@ Maria tem uma loja e quer implementar um modelo de recompensa. A cada R$1,00 gas
 
 [VTEX IO & VTEX Toolbelt](https://cdn.allbound.com/vtex-ab/2021/11/26210724/Inicializando-VTEX-IO-VTEX-Toolbelt-101-1.pdf)
 
+## Publicação
+Este app foi publicado como bitsized.grupo3-backend-app
+
 ## Configuração de ambiente de desenvolvimento
   
 **Para ajudar na instalacão dos programas vamos usar o [Chocolatey](https://chocolatey.org/install)**
